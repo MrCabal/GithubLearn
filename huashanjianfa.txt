@@ -1,4 +1,0 @@
-Github test
-ssh验证
-idea git test
-idea git test2（成员）
